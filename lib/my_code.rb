@@ -11,7 +11,7 @@ def map_to_double(source_array)
   while i < source_array.length 
   (value x -1)
   i += 1
-end 
+ end 
 end 
 
 def map_to_square(source_array)
