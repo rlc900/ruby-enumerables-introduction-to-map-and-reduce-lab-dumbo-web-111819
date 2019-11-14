@@ -9,7 +9,7 @@ end
 def map_to_double(source_array)
   i = 0 
   while i < source_array.length 
-  (value x -1)
+  source_array[i] * -1
   i += 1
  end 
 end 
